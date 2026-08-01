@@ -9,18 +9,18 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-| Platform | Description | Pricing & Free Tier Limits |
-| :--- | :--- | :--- |
-| **[Optimizely](https://www.optimizely.com/)** | Enterprise experimentation and digital experience platform with advanced A/B testing, personalization, and feature management. | Enterprise pricing (Starts ~$36,000/yr). Free tier: Basic feature flagging only (excludes A/B testing). |
-| **[VWO](https://vwo.com/)** | Conversion optimization platform with visual editor, A/B testing, heatmaps, and session insights. | Custom quote. Free tier: None (offers 30-day free trial). |
-| **[AB Tasty](https://www.abtasty.com/)** | Experimentation and personalization platform focused on marketing and product teams. | Custom quote (Starts ~$30,000/yr). Free tier: None. |
-| **[Kameleoon](https://www.kameleoon.com/)** | AI-powered A/B testing and personalization platform. | Custom quote / Starter plan (~$495/mo). Free tier: None (offers 30-day free trial). |
-| **[Convert](https://www.convert.com/)** / Convert Experiences | Privacy-focused A/B testing and experimentation platform. | Growth ($299/mo), Pro ($499/mo), Enterprise (Custom). Free tier: None (offers 15-day free trial). |
-| **[LaunchDarkly](https://launchdarkly.com/)** | Leading feature management platform with strong experimentation capabilities (LaunchDarkly Experiments). | Starts at $8.33/user/mo. Free tier: Developer Tier (1 project, 3 environments, limited MAU & experimentation keys). |
-| **[Eppo](https://www.geteppo.com/)** | Modern warehouse-native experimentation platform popular with data and product teams. | Custom quote (Starts ~$12,000–$30,000/yr). Free tier: None. |
-| **[Statsig](https://www.statsig.com/)** | High-scale experimentation and feature management platform (now associated with OpenAI). | Usage-based pricing. Free tier: Developer Tier (up to 2 million events/month, unlimited seats & flags). |
-| **[Dynamic Yield](https://www.dynamicyield.com/)** (Mastercard) | Personalization and experimentation platform. | Custom quote (Starts ~$35,000/yr). Free tier: None. |
-| **[Adobe Target](https://business.adobe.com/products/target/adobe-target.html)** | Enterprise personalization and A/B testing solution within the Adobe Experience Cloud. | Custom quote (Enterprise-level). Free tier: None. |
+| Platform | Description | Pricing & Free Tier Limits | Company Size |
+| :--- | :--- | :--- | :--- |
+| **[Adobe Target](https://business.adobe.com/products/target/adobe-target.html)** | Enterprise personalization and A/B testing solution within the Adobe Experience Cloud. | Custom quote (Enterprise-level). Free tier: None. | Huge/Enterprise (Adobe parent: ~$26.5B revenue) |
+| **[LaunchDarkly](https://launchdarkly.com/)** | Leading feature management platform with strong experimentation capabilities (LaunchDarkly Experiments). | Starts at $8.33/user/mo. Free tier: Developer Tier (1 project, 3 environments, limited MAU & experimentation keys). | $3 Billion valuation |
+| **[Optimizely](https://www.optimizely.com/)** | Enterprise experimentation and digital experience platform with advanced A/B testing, personalization, and feature management. | Enterprise pricing (Starts ~$36,000/yr). Free tier: Basic feature flagging only (excludes A/B testing). | $1.16 Billion valuation (>$400M ARR) |
+| **[Statsig](https://www.statsig.com/)** | High-scale experimentation and feature management platform (now associated with OpenAI). | Usage-based pricing. Free tier: Developer Tier (up to 2 million events/month, unlimited seats & flags). | $1.1 Billion valuation (Acquired by OpenAI) |
+| **[Dynamic Yield](https://www.dynamicyield.com/)** (Mastercard) | Personalization and experimentation platform. | Custom quote (Starts ~$35,000/yr). Free tier: None. | $300 Million acquisition valuation |
+| **[AB Tasty](https://www.abtasty.com/)** | Experimentation and personalization platform focused on marketing and product teams. | Custom quote (Starts ~$30,000/yr). Free tier: None. | ~$116.8 Million valuation |
+| **[VWO](https://vwo.com/)** | Conversion optimization platform with visual editor, A/B testing, heatmaps, and session insights. | Custom quote. Free tier: None (offers 30-day free trial). | ~$64 Million ARR |
+| **[Kameleoon](https://www.kameleoon.com/)** | AI-powered A/B testing and personalization platform. | Custom quote / Starter plan (~$495/mo). Free tier: None (offers 30-day free trial). | ~$21.4 Million valuation |
+| **[Eppo](https://www.geteppo.com/)** | Modern warehouse-native experimentation platform popular with data and product teams. | Custom quote (Starts ~$12,000–$30,000/yr). Free tier: None. | Acquired by Datadog |
+| **[Convert](https://www.convert.com/)** / Convert Experiences | Privacy-focused A/B testing and experimentation platform. | Growth ($299/mo), Pro ($499/mo), Enterprise (Custom). Free tier: None (offers 15-day free trial). | ~$3.2 Million ARR |
 
 ## 🔓 Open-Source Software
 
