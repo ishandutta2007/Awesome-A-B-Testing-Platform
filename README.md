@@ -4,6 +4,8 @@
 
 # 🧪 Awesome A/B Testing Platform
 
+> A curated directory of the best **A/B Testing Platforms**, **Feature Flag Management tools**, and **Experimentation Software** (both commercial SaaS and self-hosted Open-Source solutions). Perfect for conversion rate optimization (CRO), product analytics, progressive delivery, and statistical testing.
+
 ## 🔍 Similar Projects to A/B Testing Platforms
 
 **A/B Testing & Experimentation Platforms** enable teams to run controlled experiments (A/B, multivariate, feature experiments), manage feature flags, measure statistical significance, and optimize product or marketing experiences. Leading commercial tools include Optimizely, VWO, AB Tasty, Kameleoon, Convert, LaunchDarkly, Eppo, Statsig, Dynamic Yield, Adobe Target, and related offerings.
