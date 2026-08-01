@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome A/B Testing Banner" width="100%" />
+</div>
+
 # Awesome-A-B-Testing-Platform
 
 
