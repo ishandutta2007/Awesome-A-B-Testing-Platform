@@ -4,6 +4,10 @@
 
 # 🧪 Awesome A/B Testing Platform
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
+
 > A curated directory of the best **A/B Testing Platforms**, **Feature Flag Management tools**, and **Experimentation Software** (both commercial SaaS and self-hosted Open-Source solutions). Perfect for conversion rate optimization (CRO), product analytics, progressive delivery, and statistical testing.
 
 ## 🔍 Similar Projects to A/B Testing Platforms
