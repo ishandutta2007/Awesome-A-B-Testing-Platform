@@ -2,10 +2,9 @@
   <img src="assets/banner.svg" alt="Awesome A/B Testing Banner" width="100%" />
 </div>
 
-# Awesome-A-B-Testing-Platform
+# 🧪 Awesome A/B Testing Platform
 
-
-## Similar Projects to A/B Testing Platforms
+## 🔍 Similar Projects to A/B Testing Platforms
 
 **A/B Testing & Experimentation Platforms** enable teams to run controlled experiments (A/B, multivariate, feature experiments), manage feature flags, measure statistical significance, and optimize product or marketing experiences. Leading commercial tools include Optimizely, VWO, AB Tasty, Kameleoon, Convert, LaunchDarkly, Eppo, Statsig, Dynamic Yield, Adobe Target, and related offerings.
 
@@ -38,10 +37,10 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 - **[flagd](https://github.com/open-feature/flagd)** [![GitHub stars](https://img.shields.io/github/stars/open-feature/flagd?style=social&color=white)](https://github.com/open-feature/flagd/stargazers) — OpenFeature reference implementation / feature flag daemon (Apache 2.0). Headless and highly flexible.
 - **[FeatureHub](https://github.com/featurehub-io/featurehub)** [![GitHub stars](https://img.shields.io/github/stars/featurehub-io/featurehub?style=social&color=white)](https://github.com/featurehub-io/featurehub/stargazers) — Cloud-native open-source feature flag, A/B testing, and remote configuration service with real-time streaming updates and multi-language SDKs.
 
-### Supporting Standards & Ecosystem
+### 🛠️ Supporting Standards & Ecosystem
 - **[OpenFeature](https://openfeature.dev/)** — Vendor-neutral open standard and SDKs for feature flags. Allows switching between providers (including many of the tools above) without rewriting application code.
 
-### Typical Open-Source Stack
+### ⚙️ Typical Open-Source Stack
 Many teams combine:
 1. **Experimentation + Stats** — GrowthBook (warehouse-native analysis)
 2. **Feature Flags + Delivery** — Unleash, Flagsmith, or GO Feature Flag
@@ -52,11 +51,11 @@ This approach provides full data ownership, avoids vendor lock-in, and delivers 
 
 ---
 
-**How to contribute**  
+**🤝 How to contribute**  
 Fork this repository, add a new project (with link + short description + category), and open a pull request.  
 Prefer actively maintained open-source projects that support A/B testing, feature flags, or statistical experimentation.
 
-**License**  
+**📜 License**  
 This list is public domain / CC0. Feel free to copy into your own awesome list or README.
 
 Star the projects you find useful — open-source experimentation tooling keeps getting better! 🧪
